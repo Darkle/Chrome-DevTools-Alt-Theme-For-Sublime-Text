@@ -29,6 +29,50 @@
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
+			<string>constant.numeric.css keyword.other.unit.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#098658</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.script.begin.html meta.attribute-with-value.html string.quoted.double.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#51515f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.inline.any.html meta.attribute-with-value.html string.quoted.single.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#51515f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.inline.any.html meta.attribute-with-value.html string.quoted.double.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#51515f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String</string>
+			<key>scope</key>
 			<string>variable.language.this.ts</string>
 			<key>settings</key>
 			<dict>
